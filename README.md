@@ -27,7 +27,7 @@ A professional-level **React Native image gallery app** built using the **Flickr
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://drive.google.com/file/d/1auAlqNm8PXCdbAOavQxJtyUbJrzI6Q35/view?usp=sharing)
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=https://drive.google.com/file/d/1auAlqNm8PXCdbAOavQxJtyUbJrzI6Q35/view?usp=sharing)
 
 ---
 
